@@ -1,0 +1,26 @@
+S -> aAbBC|E|D|Sb
+A -> ε|aA|B
+B -> bcB|Cca|Bb|Bz
+C -> cC|c
+E -> eE|En
+F -> f
+F -> h
+
+S -> AASB|AAB
+A -> a
+B -> bbb|ε
+
+S -> abSc|A
+A -> cAd|cd
+
+S -> ASB|ε
+A -> aAb|ε
+B -> bBa|ba
+
+S -> Aa|ε|C|D
+A -> Aa|ε
+B -> b
+C -> cC
+D -> d
+
+S -> ε
